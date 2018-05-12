@@ -1,0 +1,40 @@
+_repo: The-QuestThe-authorized-translation-from-the-Dutch-of-De-kleine-Johannes_40657
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cole, Laura Ward
+    birthdate: 1847
+    gutenberg_agent_id: '40752'
+    url: http://www.gutenberg.org/2009/agents/40752
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eeden, Frederik van
+    aliases:
+    - Van Eeden, Frederik
+    - Eeden, Frederick van
+    - Paradijs, Cornelis
+    - Eeden, Frederik Willem van
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '2981'
+    url: http://www.gutenberg.org/2009/agents/2981
+    wikipedia: http://en.wikipedia.org/wiki/Frederik_van_Eeden
+description: ''
+gutenberg_issued: '2012-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction -- Translations into English'
+title: 'The Quest
+
+  The authorized translation from the Dutch of De kleine Johannes'
+url: http://www.gutenberg.org/ebooks/40657
